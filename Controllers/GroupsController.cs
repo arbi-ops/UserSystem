@@ -1,0 +1,157 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.Entity;
+using System.Linq;
+using System.Net;
+using System.Web;
+using System.Web.Mvc;
+using UserSystem.Models;
+using UserSystem.Models.ViewModels;
+
+namespace UserSystem.Controllers
+{
+    public class GroupsController : Controller
+    {
+        private ApplicationDbContext db = new ApplicationDbContext();
+
+        // GET: Groups
+        public ActionResult Index()
+        {
+            return View(db.Groups.ToList());
+        }
+
+        // GET: Groups/Details/5
+        public ActionResult Details(int? id)
+        {
+            if (id == null) return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+
+            Group group = db.Groups.Include(g => g.Privileges).FirstOrDefault(g => g.Id == id);
+            if (group == null) return HttpNotFound();
+
+            return View(group);
+        }
+
+        // GET: Groups/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: Groups/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create([Bind(Include = "Id,Name")] Group group)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Groups.Add(group);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(group);
+        }
+
+        // GET: Groups/Edit/5
+        public ActionResult Edit(int? id)
+        {
+            if (id == null) return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+
+            Group group = db.Groups.Find(id);
+            if (group == null) return HttpNotFound();
+
+            return View(group);
+        }
+
+        // POST: Groups/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit([Bind(Include = "Id,Name")] Group group)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Entry(group).State = EntityState.Modified;
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(group);
+        }
+
+        // GET: Groups/Delete/5
+        public ActionResult Delete(int? id)
+        {
+            if (id == null) return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+
+            Group group = db.Groups.Find(id);
+            if (group == null) return HttpNotFound();
+
+            return View(group);
+        }
+
+        // POST: Groups/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            Group group = db.Groups.Find(id);
+            db.Groups.Remove(group);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        // ✅ GET: Groups/EditPrivileges/5
+        public ActionResult EditPrivileges(int id)
+        {
+            var group = db.Groups.Include("Privileges").FirstOrDefault(g => g.Id == id);
+            if (group == null) return HttpNotFound();
+
+            var allPrivileges = db.Privileges.ToList();
+            var viewModel = new GroupPrivilegesViewModel
+            {
+                GroupId = group.Id,
+                GroupName = group.Name,
+                Privileges = allPrivileges.Select(p => new PrivilegeCheckbox
+                {
+                    Id = p.Id,
+                    Name = p.Name,
+                    IsSelected = group.Privileges.Any(gp => gp.Id == p.Id)
+                }).ToList()
+            };
+
+            return View(viewModel);
+        }
+
+        // ✅ POST: Groups/EditPrivileges/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult EditPrivileges(GroupPrivilegesViewModel model)
+        {
+            var group = db.Groups.Include("Privileges").FirstOrDefault(g => g.Id == model.GroupId);
+            if (group == null) return HttpNotFound();
+
+            group.Privileges.Clear();
+
+            foreach (var item in model.Privileges)
+            {
+                if (item.IsSelected)
+                {
+                    var privilege = db.Privileges.Find(item.Id);
+                    if (privilege != null)
+                        group.Privileges.Add(privilege);
+                }
+            }
+
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                db.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+    }
+}

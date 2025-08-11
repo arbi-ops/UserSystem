@@ -1,0 +1,2 @@
+﻿SELECT * FROM Privileges
+WHERE GroupId NOT IN (SELECT Id FROM Groups);

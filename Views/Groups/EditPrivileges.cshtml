@@ -1,0 +1,30 @@
+﻿@model UserSystem.Models.ViewModels.GroupPrivilegesViewModel
+
+@{
+    ViewBag.Title = "Edit Privileges";
+}
+
+<h2>Edit Privileges for @Model.GroupName</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.GroupId)
+
+    <div class="card shadow-sm p-4 bg-white">
+        @for (int i = 0; i < Model.Privileges.Count; i++)
+        {
+            <div class="form-check mb-2">
+                @Html.HiddenFor(m => m.Privileges[i].Id)
+                @Html.HiddenFor(m => m.Privileges[i].Name)
+                @Html.CheckBoxFor(m => m.Privileges[i].IsSelected, new { @class = "form-check-input" })
+                <label class="form-check-label">@Model.Privileges[i].Name</label>
+            </div>
+        }
+
+        <button type="submit" class="btn btn-primary mt-3">
+            <i class="bi bi-save"></i> Save Changes
+        </button>
+        <a href="@Url.Action("Index")" class="btn btn-secondary mt-3 ms-2">Cancel</a>
+    </div>
+}

@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h2 class="mb-4">Dashboard</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title"><i class="bi bi-people"></i> Users</h5>
+                <p class="card-text">Manage all registered users.</p>
+                <a href="@Url.Action("Index", "Users")" class="btn btn-light btn-sm">View Users</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title"><i class="bi bi-diagram-3"></i> Groups</h5>
+                <p class="card-text">Organize users into groups.</p>
+                <a href="@Url.Action("Index", "Groups")" class="btn btn-light btn-sm">View Groups</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title"><i class="bi bi-shield-lock"></i> Privileges</h5>
+                <p class="card-text">Assign security privileges.</p>
+                <a href="@Url.Action("Index", "Privileges")" class="btn btn-light btn-sm">View Privileges</a>
+            </div>
+        </div>
+    </div>
+</div>

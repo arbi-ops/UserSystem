@@ -1,0 +1,48 @@
+﻿@model IEnumerable<UserSystem.Models.Privilege>
+
+@{
+    ViewBag.Title = "Privileges";
+}
+
+<h2 class="mb-4">Privileges</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary mb-3">
+        <i class="bi bi-plus-circle"></i> Create New Privilege
+    </a>
+</p>
+
+<table class="table table-striped table-bordered table-hover align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Groups</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var privilege in Model)
+        {
+            <tr>
+                <td>@privilege.Id</td>
+                <td>@privilege.Name</td>
+                <td>
+                    @if (privilege.Group != null)
+                    {
+                        @privilege.Group.Name
+                    }
+                    else
+                    {
+                        <span class="text-muted">No Groups</span>
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = privilege.Id })" class="btn btn-sm btn-warning me-1">Edit</a>
+                    <a href="@Url.Action("Details", new { id = privilege.Id })" class="btn btn-sm btn-info me-1">Details</a>
+                    <a href="@Url.Action("Delete", new { id = privilege.Id })" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
