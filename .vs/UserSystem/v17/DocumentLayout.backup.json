@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\views\\privileges\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\views\\privileges\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:views\\privileges\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\models\\privilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\models\\privilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\privilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\migrations\\202508070948056_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\migrations\\202508070948056_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:migrations\\202508070948056_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,9 +39,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arbip\\AppData\\Local\\Temp\\eykulphv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arbip\\AppData\\Local\\Temp\\agnlqqfu..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,11 +48,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:40:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAAAMoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:38:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Models\\IdentityModels.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:37:35.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ManageViewModels.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\ManageViewModels.cs",
               "RelativeDocumentMoniker": "Models\\ManageViewModels.cs",
@@ -56,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Privilege.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\Privilege.cs",
               "RelativeDocumentMoniker": "Models\\Privilege.cs",
@@ -64,12 +116,11 @@
               "RelativeToolTip": "Models\\Privilege.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T10:03:23.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T10:03:23.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\Privileges\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Privileges\\Index.cshtml",
@@ -77,8 +128,7 @@
               "RelativeToolTip": "Views\\Privileges\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T10:02:25.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T10:02:25.651Z"
             },
             {
               "$type": "Document",
@@ -88,14 +138,14 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T10:00:32.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "202508070948056_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Migrations\\202508070948056_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\202508070948056_InitialCreate.cs",
@@ -103,31 +153,29 @@
               "RelativeToolTip": "Migrations\\202508070948056_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T09:48:13.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T09:48:13.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "agnlqqfu..sql ",
+              "DocumentIndex": 8,
+              "Title": "agnlqqfu..sql",
               "DocumentMoniker": "C:\\Users\\arbip\\AppData\\Local\\Temp\\agnlqqfu..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\agnlqqfu..sql",
-              "ToolTip": "agnlqqfu..sql ",
+              "ToolTip": "C:\\Users\\arbip\\AppData\\Local\\Temp\\agnlqqfu..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\agnlqqfu..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-07T09:40:39.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T09:40:39.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "eykulphv..sql",
               "DocumentMoniker": "C:\\Users\\arbip\\AppData\\Local\\Temp\\eykulphv..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eykulphv..sql",
               "ToolTip": "C:\\Users\\arbip\\AppData\\Local\\Temp\\eykulphv..sql",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eykulphv..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-07T09:35:06.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T09:35:06.69Z"
             }
           ]
         }

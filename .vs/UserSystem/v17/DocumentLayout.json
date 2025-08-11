@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,11 +48,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:40:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAAAMoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:38:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IdentityModels.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\IdentityModels.cs",
               "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
@@ -57,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ManageViewModels.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\ManageViewModels.cs",
               "RelativeDocumentMoniker": "Models\\ManageViewModels.cs",
@@ -70,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Privilege.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\Privilege.cs",
               "RelativeDocumentMoniker": "Models\\Privilege.cs",
@@ -82,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\Privileges\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Privileges\\Index.cshtml",
@@ -94,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -107,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "202508070948056_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Migrations\\202508070948056_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\202508070948056_InitialCreate.cs",
@@ -119,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "agnlqqfu..sql",
               "DocumentMoniker": "C:\\Users\\arbip\\AppData\\Local\\Temp\\agnlqqfu..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\agnlqqfu..sql",
@@ -130,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "eykulphv..sql",
               "DocumentMoniker": "C:\\Users\\arbip\\AppData\\Local\\Temp\\eykulphv..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eykulphv..sql",
