@@ -169,6 +169,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\ActivityLogsController.cs" />
     <Compile Include="Controllers\GroupsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -177,12 +178,18 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\Logger.cs" />
     <Compile Include="Migrations\202508070948056_InitialCreate.cs" />
     <Compile Include="Migrations\202508070948056_InitialCreate.Designer.cs">
       <DependentUpon>202508070948056_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202508290950579_UpdateDatabaseWithActivityLog.cs" />
+    <Compile Include="Migrations\202508290950579_UpdateDatabaseWithActivityLog.Designer.cs">
+      <DependentUpon>202508290950579_UpdateDatabaseWithActivityLog.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\ActivityLog.cs" />
     <Compile Include="Models\Group.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -276,6 +283,8 @@
     <Content Include="Views\User\Edit.cshtml" />
     <Content Include="Views\User\Index.cshtml" />
     <Content Include="Views\Groups\EditPrivileges.cshtml" />
+    <Content Include="Views\ActivityLogs\Index.cshtml" />
+    <Content Include="Views\ActivityLogs\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -310,6 +319,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202508070948056_InitialCreate.resx">
       <DependentUpon>202508070948056_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202508290950579_UpdateDatabaseWithActivityLog.resx">
+      <DependentUpon>202508290950579_UpdateDatabaseWithActivityLog.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

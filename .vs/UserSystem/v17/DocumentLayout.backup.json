@@ -3,23 +3,79 @@
   "WorkspaceRootPath": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\migrations\\202508290950579_updatedatabasewithactivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:migrations\\202508290950579_updatedatabasewithactivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\views\\activitylogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:views\\activitylogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\views\\activitylogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:views\\activitylogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\controllers\\activitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\activitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\controllers\\privilegescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\privilegescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\views\\manage\\addphonenumber.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:views\\manage\\addphonenumber.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\views\\groups\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:views\\groups\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\usersystem\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5382434-466B-4671-9EB3-D638E4BEF693}|UserSystem.csproj|solutionrelative:models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -48,7 +104,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,7 +112,198 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:57:43.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202508290950579_UpdateDatabaseWithActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Migrations\\202508290950579_UpdateDatabaseWithActivityLog.cs",
+              "RelativeDocumentMoniker": "Migrations\\202508290950579_UpdateDatabaseWithActivityLog.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Migrations\\202508290950579_UpdateDatabaseWithActivityLog.cs",
+              "RelativeToolTip": "Migrations\\202508290950579_UpdateDatabaseWithActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:51:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivityLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\ActivityLogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActivityLogsController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\ActivityLogsController.cs",
+              "RelativeToolTip": "Controllers\\ActivityLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:43:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:39:21.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:31:53.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:38:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Models\\IdentityModels.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:37:35.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\ActivityLogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ActivityLogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\ActivityLogs\\Index.cshtml",
+              "RelativeToolTip": "Views\\ActivityLogs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T09:44:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\ActivityLogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ActivityLogs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\ActivityLogs\\Details.cshtml",
+              "RelativeToolTip": "Views\\ActivityLogs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T09:46:35.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Helpers\\Logger.cs",
+              "RelativeDocumentMoniker": "Helpers\\Logger.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Helpers\\Logger.cs",
+              "RelativeToolTip": "Helpers\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T09:48:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddPhoneNumber.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\Manage\\AddPhoneNumber.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manage\\AddPhoneNumber.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\Manage\\AddPhoneNumber.cshtml",
+              "RelativeToolTip": "Views\\Manage\\AddPhoneNumber.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T12:52:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAywB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:52:01.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\Groups\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Groups\\Details.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\Groups\\Details.cshtml",
+              "RelativeToolTip": "Views\\Groups\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:47:51.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:54:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrivilegesController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\PrivilegesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrivilegesController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\PrivilegesController.cs",
+              "RelativeToolTip": "Controllers\\PrivilegesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:48:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
@@ -64,38 +311,11 @@
               "RelativeToolTip": "App_Start\\BundleConfig.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:40:15.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:40:15.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAHUBAAAAAAAAAAAAAMoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:38:51.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IdentityModels.cs",
-              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\IdentityModels.cs",
-              "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
-              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\IdentityModels.cs",
-              "RelativeToolTip": "Models\\IdentityModels.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T07:37:35.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "ManageViewModels.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\ManageViewModels.cs",
               "RelativeDocumentMoniker": "Models\\ManageViewModels.cs",
@@ -103,12 +323,11 @@
               "RelativeToolTip": "Models\\ManageViewModels.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T13:30:01.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T13:30:01.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "Privilege.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Models\\Privilege.cs",
               "RelativeDocumentMoniker": "Models\\Privilege.cs",
@@ -120,7 +339,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:00:32.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Controllers\\ManageController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:46:42.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Views\\Privileges\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Privileges\\Index.cshtml",
@@ -132,20 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T10:00:32.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "202508070948056_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\UserSystem\\Migrations\\202508070948056_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\202508070948056_InitialCreate.cs",
@@ -157,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "agnlqqfu..sql",
               "DocumentMoniker": "C:\\Users\\arbip\\AppData\\Local\\Temp\\agnlqqfu..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\agnlqqfu..sql",
@@ -168,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "eykulphv..sql",
               "DocumentMoniker": "C:\\Users\\arbip\\AppData\\Local\\Temp\\eykulphv..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eykulphv..sql",

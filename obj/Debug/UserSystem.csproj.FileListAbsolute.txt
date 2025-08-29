@@ -108,3 +108,4 @@ C:\Users\arbip\OneDrive\Desktop\C#\.vs\C#\v17\UserSystem\obj\Debug\UserSystem.dl
 C:\Users\arbip\OneDrive\Desktop\C#\.vs\C#\v17\UserSystem\obj\Debug\UserSystem.pdb
 C:\Users\arbip\OneDrive\Desktop\C#\.vs\C#\v17\UserSystem\obj\Debug\UserSystem.Migrations.InitialCreate.resources
 C:\Users\arbip\OneDrive\Desktop\C#\.vs\C#\v17\UserSystem\obj\Debug\UserSystem.csproj.GenerateResource.cache
+C:\Users\arbip\OneDrive\Desktop\C#\.vs\C#\v17\UserSystem\obj\Debug\UserSystem.Migrations.UpdateDatabaseWithActivityLog.resources

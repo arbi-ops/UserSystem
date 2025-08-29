@@ -23,6 +23,7 @@ namespace UserSystem.Models
     {
         public DbSet<Group> Groups { get; set; }
         public DbSet<Privilege> Privileges { get; set; }
+        public DbSet<ActivityLog> ActivityLogs { get; set; }
 
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
